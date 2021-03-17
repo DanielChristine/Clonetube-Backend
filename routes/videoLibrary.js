@@ -2,7 +2,6 @@ const express = require("express");
 const router = express.Router();
 const Video = require("../schema/videoSchema");
 const Joi = require("joi");
-const Comment = require("../schema/commentSchema");
 
 router.get("/", async (req, res) => {
   try {
