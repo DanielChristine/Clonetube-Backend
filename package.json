@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.4.0"
+  },
+  "name": "clonetube-backend",
+  "description": "Youtube Clone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielChristine/Clonetube-Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielChristine/Clonetube-Backend/issues"
+  },
+  "homepage": "https://github.com/DanielChristine/Clonetube-Backend#readme"
+}
