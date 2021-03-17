@@ -1,4 +1,4 @@
-const mongoose = require("mongoose");
+/*const mongoose = require("mongoose");
 
 const commentSchema = new mongoose.Schema({
   //signature?
@@ -22,4 +22,4 @@ const Comment = mongoose.model("Comment", commentSchema);
 const Reply = mongoose.model("Reply", replySchema);
 
 module.exports = Comment;
-module.exports = Reply;
+module.exports = Reply;*/
